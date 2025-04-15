@@ -1,0 +1,3 @@
+UPDATE C##LASIN.GRA 
+SET NAZWA = 'Nowa Wersja Gry', CENA = 69.99 
+WHERE ID_GRY = 5; 
